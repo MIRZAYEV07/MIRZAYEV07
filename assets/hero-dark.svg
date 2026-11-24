@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 700" width="960" height="700" role="img" aria-label="Ogabek Mirzoyev — Senior Backend Engineer, high-load and real-time data systems. Python, FastAPI, Django, PostgreSQL, ClickHouse. Tashkent, Uzbekistan. 40M+ registered in uzbekistan's national census: population + agriculture · end to end, from pre-census to the final count. 15M+ user activities handled (census.stat.uz). 8K+ rps during the census (census.stat.uz). 5+ TB in real-time statistics (PostgreSQL + ClickHouse). 50K+ daily active users (census + pre-census). 2.5K+ rps on the auth service (minisurvey.stat.uz). 2,000+ stations registered, licensed (ugaz.uz · live, per dispenser).">
+<title>Ogabek Mirzoyev — Senior Backend Engineer, high-load and real-time data systems. Python, FastAPI, Django, PostgreSQL, ClickHouse. Tashkent, Uzbekistan. 40M+ registered in uzbekistan's national census: population + agriculture · end to end, from pre-census to the final count. 15M+ user activities handled (census.stat.uz). 8K+ rps during the census (census.stat.uz). 5+ TB in real-time statistics (PostgreSQL + ClickHouse). 50K+ daily active users (census + pre-census). 2.5K+ rps on the auth service (minisurvey.stat.uz). 2,000+ stations registered, licensed (ugaz.uz · live, per dispenser).</title>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace} .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+.fg{fill:#F0F6FC} .fg2{fill:#C2CAD3} .fg3{fill:#959DA8} .ac{fill:#3FDC5F}
+@keyframes pulse{0%{transform:scale(1);opacity:.6}100%{transform:scale(3.2);opacity:0}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.6s ease-out infinite}
+@media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+</style>
+<rect x="0" y="12" width="10" height="10" rx="2" fill="#1F2630"/><rect x="13" y="12" width="10" height="10" rx="2" fill="#0E4429"/><rect x="26" y="12" width="10" height="10" rx="2" fill="#006D32"/><rect x="39" y="12" width="10" height="10" rx="2" fill="#26A641"/><rect x="52" y="12" width="10" height="10" rx="2" fill="#3FDC5F"/>
+<text x="80" y="22" class="m fg2" font-size="12" font-weight="600" letter-spacing="2.5">MIRZAYEV07</text>
+<text x="960" y="22" class="m fg2" font-size="12" text-anchor="end" letter-spacing="2">TASHKENT, UZBEKISTAN · UTC+5</text>
+<line x1="0" y1="44.5" x2="960" y2="44.5" stroke="#3D444D" stroke-width="1"/>
+<circle cx="5" cy="88" r="4" fill="#3FDC5F" class="pulse"/><circle cx="5" cy="88" r="4" fill="#3FDC5F"/>
+<text x="20" y="92" class="m fg2" font-size="12" letter-spacing="2.2">IN PRODUCTION SINCE 2020</text>
+<text x="-3" y="178" class="s fg" font-size="82" font-weight="700" letter-spacing="-1.5">OGABEK</text>
+<text x="-3" y="262" class="s fg3" font-size="82" font-weight="700" letter-spacing="-1.5">MIRZOYEV</text>
+<line x1="540.5" y1="124" x2="540.5" y2="256" stroke="#3D444D" stroke-width="1"/>
+<text x="566" y="140" class="m fg3" font-size="11.5" letter-spacing="2">ROLE</text>
+<text x="640" y="140" class="m fg" font-size="15">Senior Backend Engineer</text>
+<text x="566" y="176" class="m fg3" font-size="11.5" letter-spacing="2">FOCUS</text>
+<text x="640" y="176" class="m fg" font-size="15">High-load · real-time data</text>
+<text x="566" y="212" class="m fg3" font-size="11.5" letter-spacing="2">CORE</text>
+<text x="640" y="212" class="m fg" font-size="15">Python · FastAPI · Django</text>
+<text x="566" y="248" class="m fg3" font-size="11.5" letter-spacing="2">DATA</text>
+<text x="640" y="248" class="m fg" font-size="15">PostgreSQL · ClickHouse</text>
+<line x1="0" y1="304.5" x2="960" y2="304.5" stroke="#3D444D" stroke-width="1"/>
+<text x="-2" y="390" class="s fg" font-size="72" font-weight="300" letter-spacing="-1.5">40M<tspan class="ac">+</tspan></text>
+<line x1="280.5" y1="334" x2="280.5" y2="398" stroke="#3D444D" stroke-width="1"/>
+<text x="306" y="358" class="m fg2" font-size="11.5" letter-spacing="1.6">REGISTERED IN UZBEKISTAN'S NATIONAL CENSUS</text>
+<text x="306" y="386" class="s fg" font-size="16">Population + agriculture · end to end, from pre-census to the final count</text>
+<line x1="0" y1="428.5" x2="960" y2="428.5" stroke="#262C34" stroke-width="1"/>
+<text x="0" y="492" class="s fg" font-size="42" font-weight="300" letter-spacing="-0.5">15M<tspan class="ac">+</tspan></text>
+<text x="0" y="516" class="m fg2" font-size="11.5" letter-spacing="1.6">USER ACTIVITIES HANDLED</text>
+<text x="0" y="534" class="m fg3" font-size="12">census.stat.uz</text>
+<line x1="320.5" y1="448" x2="320.5" y2="532" stroke="#3D444D" stroke-width="1"/>
+<text x="344" y="492" class="s fg" font-size="42" font-weight="300" letter-spacing="-0.5">8K<tspan class="ac">+</tspan></text>
+<text x="344" y="516" class="m fg2" font-size="11.5" letter-spacing="1.6">RPS DURING THE CENSUS</text>
+<text x="344" y="534" class="m fg3" font-size="12">census.stat.uz</text>
+<line x1="640.5" y1="448" x2="640.5" y2="532" stroke="#3D444D" stroke-width="1"/>
+<text x="664" y="492" class="s fg" font-size="42" font-weight="300" letter-spacing="-0.5">5<tspan class="ac">+ TB</tspan></text>
+<text x="664" y="516" class="m fg2" font-size="11.5" letter-spacing="1.6">IN REAL-TIME STATISTICS</text>
+<text x="664" y="534" class="m fg3" font-size="12">PostgreSQL + ClickHouse</text>
+<text x="0" y="612" class="s fg" font-size="42" font-weight="300" letter-spacing="-0.5">50K<tspan class="ac">+</tspan></text>
+<text x="0" y="636" class="m fg2" font-size="11.5" letter-spacing="1.6">DAILY ACTIVE USERS</text>
+<text x="0" y="654" class="m fg3" font-size="12">census + pre-census</text>
+<line x1="320.5" y1="568" x2="320.5" y2="652" stroke="#3D444D" stroke-width="1"/>
+<text x="344" y="612" class="s fg" font-size="42" font-weight="300" letter-spacing="-0.5">2.5K<tspan class="ac">+</tspan></text>
+<text x="344" y="636" class="m fg2" font-size="11.5" letter-spacing="1.6">RPS ON THE AUTH SERVICE</text>
+<text x="344" y="654" class="m fg3" font-size="12">minisurvey.stat.uz</text>
+<line x1="640.5" y1="568" x2="640.5" y2="652" stroke="#3D444D" stroke-width="1"/>
+<text x="664" y="612" class="s fg" font-size="42" font-weight="300" letter-spacing="-0.5">2,000<tspan class="ac">+</tspan></text>
+<text x="664" y="636" class="m fg2" font-size="11.5" letter-spacing="1.6">STATIONS REGISTERED, LICENSED</text>
+<text x="664" y="654" class="m fg3" font-size="12">ugaz.uz · live, per dispenser</text>
+<line x1="0" y1="548.5" x2="960" y2="548.5" stroke="#262C34" stroke-width="1"/>
+</svg>

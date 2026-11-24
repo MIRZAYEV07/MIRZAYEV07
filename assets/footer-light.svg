@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 80" width="960" height="80" role="img" aria-label="">
+<title></title>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace} .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+.fg{fill:#1F2328} .fg2{fill:#3D444D} .fg3{fill:#636C76} .ac{fill:#1A7F37}
+@keyframes pulse{0%{transform:scale(1);opacity:.6}100%{transform:scale(3.2);opacity:0}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.6s ease-out infinite}
+@media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+</style>
+<g transform="translate(0,32)"><line x1="0" y1="0.5" x2="960" y2="0.5" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="449.0" y="24" width="10" height="10" rx="2" fill="#EBEDF0"/><rect x="462.0" y="24" width="10" height="10" rx="2" fill="#9BE9A8"/><rect x="475.0" y="24" width="10" height="10" rx="2" fill="#40C463"/><rect x="488.0" y="24" width="10" height="10" rx="2" fill="#30A14E"/><rect x="501.0" y="24" width="10" height="10" rx="2" fill="#216E39"/></g>
+</svg>
